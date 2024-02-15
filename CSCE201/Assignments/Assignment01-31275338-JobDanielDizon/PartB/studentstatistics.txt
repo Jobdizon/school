@@ -1,0 +1,3 @@
+Average marks: 81.05
+Highest marks: 98
+Lowest marks: 85

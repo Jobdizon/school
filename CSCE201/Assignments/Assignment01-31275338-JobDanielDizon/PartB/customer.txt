@@ -1,0 +1,11 @@
+10 Jack 110
+11 Michael 250
+12 Lee 300
+13 Ken 0
+14 Jane 10
+cd "c:\Users\jobdi\OneDrive\Desktop\Projects\Assignnents\Assignment01-31275338-JobDanielDizon"
+cd "c:\Users\jobdi\OneDrive\Desktop\Projects\Assignnents\Assignment01-31275338-JobDanielDizon\" ; if ($?) { g++ A1Q9.cpp -o A1Q9 } ; if ($?) { .\A1Q9 }
+cd "c:\Users\jobdi\OneDrive\Desktop\Projects\Assignnents\Assignment01-31275338-JobDanielDizon"
+cd "c:\Users\jobdi\OneDrive\Desktop\Projects\Assignnents\Assignment01-31275338-JobDanielDizon\" ; if ($?) { g++ A1Q10.cpp -o A1Q10 } ; if ($?) { .\A1Q10 }
+cd "c:\Users\jobdi\OneDrive\Desktop\Projects\Assignnents\Assignment01-31275338-JobDanielDizon"
+cd "c:\Users\jobdi\OneDrive\Desktop\Projects\Assignnents\Assignment01-31275338-JobDanielDizon\" ; if ($?) { g++ A1Q10.cpp -o A1Q10 } ; if ($?) { .\A1Q10 }
