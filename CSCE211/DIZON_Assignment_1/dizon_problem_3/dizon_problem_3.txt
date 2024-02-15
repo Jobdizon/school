@@ -1,0 +1,10 @@
+1. The goal of the maze is to find the exit. Therefore, in a two dimensional array, there is
+two stacks. The stacks are to go up and down, and the other stack is to go left to right.
+To solve a maze, regarding a two-dimensional array, as the index of the array changes, push out
+data that hits a wall and go access the last position that wasn't a wall. Repeat this process until
+it is solve, or in other words, the stack position is the exit.
+
+2. The obvious criteria is that it has to be solvable. The next important aspect of making a
+maze is the ability to be random. You don't want a maze that you already solved. It is important
+that is random for how it looks and how difficult it is. The difficulty needs to be random in terms
+of where there are walls and dead-ends. A maze can't be too easy or hard.
